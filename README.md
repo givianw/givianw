@@ -11,8 +11,8 @@ ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- 🧾 ₿ bitcoin (BTC): `3K7Ba2DFyyuGTukNqXEmogG4VgYp2RWnZV` (disclosed publicly on march 24, 2021)
-- 🧾 gridcoin (GRC): `SK7A2yq4rsoDSKc592dxSb3JSYeSSopbNB` (disclosed publicly on march 25, 2021)
+- 🧾 ₿ bitcoin (BTC): `3K7Ba2DFyyuGTukNqXEmogG4VgYp2RWnZV` (notified public on march 24, 2021)
+- 🧾 gridcoin (GRC): `SK7A2yq4rsoDSKc592dxSb3JSYeSSopbNB` (notified public on march 25, 2021)
 
 ### income statement (days are inclusive)
  | days | btc | grc |
